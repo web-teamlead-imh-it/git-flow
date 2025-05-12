@@ -1,1 +1,2 @@
-UI/UX designer is working on that
+- UI/UX designer is working on that
+- tend to finish but face road block
